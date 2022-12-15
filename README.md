@@ -12,3 +12,7 @@ only. In total, a subset of more than 1 million articles published between the y
 were analyzed, using algorithms for massive datasets.
 
 
+This repository contains the following files:
+- Final report: AMD_Market_basket_Analysis_Cardarello_Polli.pdf
+- Google Colab notebook with the applications of Apriori and SON algorithms: A_Priori_&_SON_Market_basket_analysis_(eng_newspapers).ipynb
+- Google Colab notebook with the application of FP growth algorithm: FP_growth_Market_basket_analysis_(eng_newspapers).ipynb
