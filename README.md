@@ -1,7 +1,7 @@
 # Market-Basket Analysis using “Old Newspapers” dataset
 Algorithms for Massive Data final project - Università degli Studi di Milano
 
-_Authors: Mathias Cardarello Fierro & Lorenzo Polli_
+_Authors: Mathias Cardarello Fierro & [Lorenzo Polli](https://github.com/LorenzoPolli)_
 
 
 This project aims at investigating techniques generally used to conduct market-basket analysis
